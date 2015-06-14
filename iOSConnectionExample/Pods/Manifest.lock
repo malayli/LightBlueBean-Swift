@@ -1,0 +1,10 @@
+PODS:
+  - Bean-iOS-OSX-SDK (0.9.0)
+
+DEPENDENCIES:
+  - Bean-iOS-OSX-SDK
+
+SPEC CHECKSUMS:
+  Bean-iOS-OSX-SDK: 76add3bb4feb1801dc8d62bd9d44ccbfac062b52
+
+COCOAPODS: 0.37.2
